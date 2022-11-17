@@ -4,9 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/pneubras-comércio-de-pneus-ltda/mycompany/)](https://www.linkedin.com/company/pneubras-comércio-de-pneus-ltda/mycompany//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ti@pneubras.com)](mailto:ti@pneubras.com)
 
-
-
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=ti-pneubras&show_icons=true)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ti-pneubras&layout=compact)
 
