@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ti@pneubras.com)](mailto:ti@pneubras.com)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ti-pneubras&show_icons=true)
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ti-pneubras&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ti-pneubras&layout=compact&langs_count=7&theme=dracula"/>
 
 <!--
 <p align="center">
