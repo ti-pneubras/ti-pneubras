@@ -42,13 +42,15 @@ Valorização do ser humano | Eficiência pela eficácia | Zelo pelo meio ambien
 
 
 </br>
-<div align="center">
+<div align="left">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ti-pneubras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ti-pneubras&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
 ![Snake animation](https://github.com/ti-pneubras/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 
