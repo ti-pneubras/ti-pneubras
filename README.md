@@ -1,6 +1,15 @@
 ## PneuBras Comercio de Pneus
 
 
+</br>
+<div align="center">
+  <img src="assets/WallPaperPNB.png" width="50%" />
+</div>
+</br>
+
+
+
+
 
 O Grupo PNEUBRAS foi fundado em 2007, em Pernambuco e atua em todo Nordeste, com a distribuição e comercialização de pneus. Atualmente conta com mais de 500 colaboradores e 69 unidades distribuídas em todo Nordeste (capitais e cidades estratégicas), entre distribuidoras, lojas de serviços automotivos e truck centers. Dispõe das melhores opções de compra de pneus para caminhões, veículos leves, utilitários, veículos de passeio e alta performance, atendendo ao consumidor final e a diversas empresas.
 
@@ -29,12 +38,22 @@ Valorização do ser humano | Eficiência pela eficácia | Zelo pelo meio ambien
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/pneubras-comércio-de-pneus-ltda/mycompany/)](https://www.linkedin.com/company/pneubras-comércio-de-pneus-ltda/mycompany//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ti@pneubras.com)](mailto:ti@pneubras.com)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ti-pneubras&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+
+
+</br>
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ti-pneubras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ti-pneubras&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+![Snake animation](https://github.com/ti-pneubras/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
 
 
 
 
-
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=ti-pneubras&show_icons=true&theme=dark&include_all_commits=true&count_private=true) -->
 
 
 
@@ -53,4 +72,6 @@ Valorização do ser humano | Eficiência pela eficácia | Zelo pelo meio ambien
   </a>
 </p> -->
 
-![Snake animation](https://github.com/ti-pneubras/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
+
+
+
