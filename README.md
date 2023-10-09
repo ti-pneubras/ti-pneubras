@@ -3,7 +3,7 @@
 
 </br>
 <div align="center">
-  <img src="assets/WallPaperPNB.png" width="60%" height ="60%" />
+  <img src="assets/WallPaperPNB.png" width="80%" height ="80%" />
 </div>
 </br>
 
