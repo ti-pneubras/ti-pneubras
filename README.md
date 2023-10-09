@@ -28,7 +28,11 @@ Consolidar-se como a maior Empresa de comercialização de pneus, em todos os es
 :pushpin: **VALORES:** <br>
 Valorização do ser humano | Eficiência pela eficácia | Zelo pelo meio ambiente | Melhoria contínua da gestão | Equidade com colaboradores, clientes e fornecedores.
 
+
+Para mais informações, acesse: <a href="http://www.grupopneubras.com"> Grupo PneuBras </a>
+
 <br>
+
 
 
 
